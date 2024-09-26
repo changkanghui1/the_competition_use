@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/project_hw.dir/main.c.o CMakeFiles/project_hw.dir/algorithm/algorithm.c.o  -o project_hw  -Wl,-rpath,"/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/lib" ../lib/libseek_model.so -lm 

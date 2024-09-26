@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../algorithm/algorithm.h
+../public.h
+../public.h
+
+../public.h
+stdint.h
+-
+stdio.h
+-
+
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/algorithm/algorithm.c
+algorithm.h
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/algorithm/algorithm.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+sys/time.h
+-
+string.h
+-
+
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/algorithm/algorithm.h
+../public.h
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/public.h
+
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+public.h
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/public.h
+algorithm.h
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/algorithm.h
+
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/public.h
+stdint.h
+-
+stdio.h
+-
+

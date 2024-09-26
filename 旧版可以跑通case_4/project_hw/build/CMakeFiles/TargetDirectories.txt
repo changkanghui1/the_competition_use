@@ -1,0 +1,3 @@
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/竞赛相关信息 - 副本/竞赛相关信息/竞赛一-MED IO Schedule/MED IO Schedule/projec/Project_hw_use1/build/CMakeFiles/project_hw.dir
